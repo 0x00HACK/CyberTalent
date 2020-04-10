@@ -1,0 +1,9 @@
+Challenge Name:  Cash
+
+Level:  Easy
+
+Points:  50
+
+Challenge Description:  I am a type of attacks that used to spread malware. I push data in the cache records of your DNS. I am cache ........?
+
+Answer:  poisoning

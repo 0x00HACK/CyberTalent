@@ -1,0 +1,9 @@
+Challenge Name:  Modify Code
+
+Level:  Easy
+
+Points:  50
+
+Challenge Description:  Change code from one form to another to prevent attacker from understanding it
+
+Answer:  obfuscation

@@ -1,0 +1,9 @@
+Challenge Name:  TrendMicro Conference
+
+Level: Basic
+
+Points: 25
+
+Challenge Description:  Periodic Conference in many cities hosted by Trend Micro
+
+Answer:  CLOUDSEC

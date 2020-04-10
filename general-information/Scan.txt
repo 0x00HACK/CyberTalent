@@ -1,0 +1,9 @@
+Challenge Name:  Scan
+
+Level:  Easy
+
+Points:  50
+
+Challenge Description:  One of the famous, free port scanner. Who am i ?
+
+Answer:  nmap

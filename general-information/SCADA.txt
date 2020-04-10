@@ -1,0 +1,9 @@
+Challenge Name:  SCADA
+
+Level:  Easy
+
+Points:  50
+
+Challenge Description:  A worm that targeted SCADA Systems
+
+Answer:  Stuxnet

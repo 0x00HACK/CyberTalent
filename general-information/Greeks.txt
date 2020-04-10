@@ -1,0 +1,9 @@
+Challenge Name:  Greeks
+
+Level: Easy
+
+Points: 50
+
+Challenge Description:  The art of hiding messages or information inside other image / text or data
+
+Answer:  steganography

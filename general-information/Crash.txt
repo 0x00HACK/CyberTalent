@@ -1,0 +1,9 @@
+Challenge Name:  Crash
+
+Level:  Easy
+
+Points:  50
+
+Challenge Description:  enter a lot of random trash till the application crash
+
+Answer:  fuzzing

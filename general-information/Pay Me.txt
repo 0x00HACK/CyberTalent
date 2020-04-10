@@ -1,0 +1,9 @@
+Challenge Name:  Pay Me
+
+Level: Basic
+
+Points: 25
+
+Challenge Description:  I will lock your machine screen or files till you pay me. Who am i ?
+
+Answer:  Ransomware
